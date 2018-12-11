@@ -15,9 +15,11 @@ Now you can start writing your code into the scss file.
 You can copy all you css code into the scss code if you want to start using sass in an exisiting projekt, 
 the css syntax is an accepted syntax of sass!
 
+For a small thest you can run the command on the index.scss file included in this github project under \try it yourself . Open if you succeded you will se that your font has turned red when opening the index.html file
+
 For all features visit https://sass-lang.com/guide . The next section will cover the tasks given in the presentation.
 
-# 2. Examples
+# 2. Tasks
 
 ## 2.1 Nesting
 
