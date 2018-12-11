@@ -9,7 +9,7 @@ To compile your index.scss file into an index.css file use the following command
 
     sass index.scss index.css
 
-The syntax of this command is *sass source target* and you can choose any folder and file to compile from/to
+The syntax of this command is "*sass source target*" and you can choose any folder and file to compile from/to
 
 Now you can start writing your code into the scss file. 
 You can copy all you css code into the scss code if you want to start using sass in an exisiting projekt, 
