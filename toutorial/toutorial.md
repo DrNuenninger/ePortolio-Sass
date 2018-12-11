@@ -1,7 +1,7 @@
 # Sass tutorial
 
 This tutorial should teach you the basics of the Sass syntax scss.
-This tutorial assumes you have Sass installed, if you haven't install the command line option here: https://sass-lang.com/install
+This tutorial assumes you have Sass installed, if you haven't, install the command line option here: https://sass-lang.com/install
 
 # 1. Basics
 
@@ -9,7 +9,7 @@ To compile your index.scss file into an index.css file use the following command
 
     sass index.scss index.css
 
-The syntax of this command is sass <source> <target> and you can choose any folder and file to compile from/to
+The syntax of this command is"sass source target" and you can choose any folder and file to compile from/to
 
 Now you can start writing your code into the scss file. 
 You can copy all you css code into the scss code if you want to start using sass in an exisiting projekt, 
@@ -47,6 +47,8 @@ This code will result in the following css code:
 		color: #008000;
 	}	
 
+With just this one rule you actually needed more lines of code but as soon as you add more html elements to the widget you can see the benefit
+	
 ## 2.2 Mixin for rotation
 
 You can use Mixins to reuse a whole block of style rules multiple times and with different parameters , saving a lot of code.
